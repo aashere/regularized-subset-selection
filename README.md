@@ -1,6 +1,6 @@
 # Regularized Subset Selection Project
 
-The objective of this project was to simulate regularized (LASSO and Elastic-net) feature selection in order to
+The objective of this project was to simulate regularized (LASSO and Elastic-net) linear and logistic regression models for feature selection in order to
 verify results about the accuracy of these feature selection methods presented in the following paper:
 
     Florentina Bunea. 2008. Honest variable selection in linear and logistic regression models
